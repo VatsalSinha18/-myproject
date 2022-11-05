@@ -1,5 +1,6 @@
 #include<stdio.h>
 int main()
 {
-    printf("HEllo World");
+    
+    print("my name is vatsal");
 }
